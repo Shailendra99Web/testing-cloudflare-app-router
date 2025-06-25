@@ -26,6 +26,12 @@ export default function Home() {
               Contact Us
             </Link>
           </p>
+          <p>
+            <span className="text-gray-600">Go to </span>
+            <Link href="/show-url-value/Shailendra" className="text-blue-600 hover:underline font-medium">
+              Show URL Value
+            </Link>
+          </p>
         </div>
       </div>
     </div>
