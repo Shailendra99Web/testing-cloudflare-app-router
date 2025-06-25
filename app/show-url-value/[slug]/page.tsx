@@ -9,7 +9,7 @@ const ShowUrlValue = () => {
 
   return (
     <div>
-      <h1>Slug Value:</h1>
+      <h1>Slug Value :</h1>
       <p>{slug}</p>
     </div>
   );

@@ -29,7 +29,7 @@ export default function Home() {
           <p>
             <span className="text-gray-600">Go to </span>
             <Link href="/show-url-value/Shailendra" className="text-blue-600 hover:underline font-medium">
-              Show URL Value
+              Show URL Value by [slug]
             </Link>
           </p>
         </div>
